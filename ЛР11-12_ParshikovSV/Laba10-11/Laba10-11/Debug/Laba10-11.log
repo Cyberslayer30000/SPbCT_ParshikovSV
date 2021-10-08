@@ -1,0 +1,10 @@
+﻿  Laba10-11.cpp
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(46,16): error C2061: синтаксическая ошибка: идентификатор "CLASS"
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(91): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Mass<T>"
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(46,7): error C2535: void Mass<T>::showMass(void): функция-член уже определена или объявлена
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(38): message : см. объявление "Mass<T>::showMass"
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(48,3): error C3861: z: идентификатор не найден
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(46,7): error C2535: void Mass<double>::showMass(void): функция-член уже определена или объявлена
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(38): message : см. объявление "Mass<double>::showMass"
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(46,7): error C2535: void Mass<Polz>::showMass(void): функция-член уже определена или объявлена
+C:\Users\trove\source\repos\Laba10-11\Laba10-11\Laba10-11.cpp(38): message : см. объявление "Mass<Polz>::showMass"
