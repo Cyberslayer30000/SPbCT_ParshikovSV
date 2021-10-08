@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\trove\source\repos\Zadanie\Zadanie\MyForm.h(126,8): warning C4101: arrBit: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Zadanie.vcxproj -> C:\Users\trove\source\repos\Zadanie\Debug\Zadanie.exe

@@ -1,0 +1,3 @@
+C:\Users\trove\source\repos\Zadanie\Zadanie\Debug\Zadanie.vcxproj.AssemblyReference.cache
+C:\Users\trove\source\repos\Zadanie\Zadanie\Debug\Zadanie.MyForm.resources
+C:\Users\trove\source\repos\Zadanie\Zadanie\Debug\Zadanie.vcxproj.GenerateResource.cache
