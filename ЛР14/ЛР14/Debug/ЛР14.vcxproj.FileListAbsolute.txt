@@ -1,0 +1,6 @@
+C:\Users\igorg\source\repos\ЛР14\ЛР14\Debug\ЛР14.vcxprojAssemblyReference.cache
+C:\Users\igorg\source\repos\ЛР14\ЛР14\Debug\ЛР14.MyForm.resources
+C:\Users\igorg\source\repos\ЛР14\ЛР14\Debug\ЛР14.vcxproj.GenerateResource.cache
+C:\Users\u381\Desktop\ЛР14\ЛР14\Debug\ЛР14.vcxprojAssemblyReference.cache
+C:\Users\u381\Desktop\ЛР14\ЛР14\Debug\ЛР14.MyForm.resources
+C:\Users\u381\Desktop\ЛР14\ЛР14\Debug\ЛР14.vcxproj.GenerateResource.cache
