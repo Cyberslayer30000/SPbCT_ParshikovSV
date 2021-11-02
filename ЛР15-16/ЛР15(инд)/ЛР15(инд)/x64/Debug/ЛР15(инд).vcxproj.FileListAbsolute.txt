@@ -1,0 +1,3 @@
+C:\Users\trove\OneDrive\Рабочий стол\SpbCT_VoronovNP-main\ЛР15-16\ЛР15(инд)\ЛР15(инд)\x64\Debug\ЛР15(инд).vcxproj.AssemblyReference.cache
+C:\Users\trove\OneDrive\Рабочий стол\SpbCT_VoronovNP-main\ЛР15-16\ЛР15(инд)\ЛР15(инд)\x64\Debug\ЛР15инд.MyForm.resources
+C:\Users\trove\OneDrive\Рабочий стол\SpbCT_VoronovNP-main\ЛР15-16\ЛР15(инд)\ЛР15(инд)\x64\Debug\ЛР15(инд).vcxproj.GenerateResource.cache

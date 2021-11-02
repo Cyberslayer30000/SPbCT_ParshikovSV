@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\trove\OneDrive\Рабочий стол\SpbCT_VoronovNP-main\ЛР15-16\ЛР15(3)\ЛР15(3)\MyForm.h(197,35): warning C4101: ex: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ЛР15(3).vcxproj -> C:\Users\trove\OneDrive\Рабочий стол\SpbCT_VoronovNP-main\ЛР15-16\ЛР15(3)\x64\Debug\ЛР15(3).exe

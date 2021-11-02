@@ -1,0 +1,6 @@
+C:\Users\igorg\source\repos\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15(инд).vcxprojAssemblyReference.cache
+C:\Users\igorg\source\repos\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15инд.MyForm.resources
+C:\Users\igorg\source\repos\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15(инд).vcxproj.GenerateResource.cache
+C:\Users\u381\Desktop\ЛР15-16\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15(инд).vcxprojAssemblyReference.cache
+C:\Users\u381\Desktop\ЛР15-16\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15инд.MyForm.resources
+C:\Users\u381\Desktop\ЛР15-16\ЛР15(инд)\ЛР15(инд)\Debug\ЛР15(инд).vcxproj.GenerateResource.cache
