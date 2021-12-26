@@ -1,0 +1,6 @@
+C:\Users\trove\source\repos\form\form\Debug\form.vcxproj.AssemblyReference.cache
+C:\Users\trove\source\repos\form\form\Debug\form.MyForm.resources
+C:\Users\trove\source\repos\form\form\Debug\form.vcxproj.GenerateResource.cache
+C:\Users\trove\OneDrive\Рабочий стол\Проект\form\form\Debug\form.vcxproj.AssemblyReference.cache
+C:\Users\trove\OneDrive\Рабочий стол\Проект\form\form\Debug\form.MyForm.resources
+C:\Users\trove\OneDrive\Рабочий стол\Проект\form\form\Debug\form.vcxproj.GenerateResource.cache

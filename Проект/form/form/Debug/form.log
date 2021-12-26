@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\trove\OneDrive\Рабочий стол\Проект\form\form\MyForm.h(787,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\trove\OneDrive\Рабочий стол\Проект\form\form\MyForm.h(849,11): warning C4101: Symbol: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  form.vcxproj -> C:\Users\trove\OneDrive\Рабочий стол\Проект\form\Debug\form.exe
